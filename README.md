@@ -1,20 +1,20 @@
-# 🧩 Table Scraper - Chrome Extension
+# 🧩 My Chrome Extension - Table Scraper
 
-Scrape any HTML Table from any Website with 1 Click!
+✅ Extract any table from any website  
+✅ Preview data before downloading  
+✅ Export as CSV
 
-✅ Auto-detect tables  
-✅ Preview table data  
-✅ Download as CSV  
-✅ Simple UI
+💰 Unlock Full Version (only $3): WhatsApp 0310-1374973
 
-📌 How to Install:
-1. Download this repository as ZIP
-2. Go to `chrome://extensions`
+📥 How to Install:
+1. Download ZIP
+2. Go to chrome://extensions
 3. Enable Developer Mode
-4. Click “Load Unpacked” and select this folder
+4. Click "Load unpacked"
+5. Select the extension folder
 
-💰 Want to support or unlock full features?
-Send just $3 → WhatsApp: 0310-1374973
+⭐ Please give a Star to support this project
+
 
 ⭐ Please give a ⭐ if this helped you
 
