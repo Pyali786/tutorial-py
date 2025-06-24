@@ -1,0 +1,14 @@
+
+{
+  "manifest_version": 3,
+  "name": "Table Scraper",
+  "version": "1.0",
+  "description": "Scrapes tables from any website and downloads as CSV.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "scripting", "downloads"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
