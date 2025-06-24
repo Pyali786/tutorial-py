@@ -29,9 +29,6 @@ This Chrome Extension allows you to extract any HTML table from a webpage and do
 
 ---
 
-## 📸 Screenshot
-
-![Screenshot](table_scraper_preview.png)
 
 ---
 
