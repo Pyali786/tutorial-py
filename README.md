@@ -4,15 +4,6 @@
 
 This Chrome Extension allows you to extract any HTML table from a webpage and download it as a CSV file with a single click.
 
-> ⭐ If you like this project, **please give it a star** and **follow me for more cool tools!**
->
-> ## ☕ Donate
-
-If you find this tool helpful, you can support me with a small donation 💖
-
-- 💸 EasyPaisa / JazzCash: **0310-1374973**
-
-
 🚀 **Simple, Fast, and Offline. No Ads.**
 
 ---
@@ -29,17 +20,26 @@ If you find this tool helpful, you can support me with a small donation 💖
 
 ## 🛠️ How to Use
 
-1. Download this extension as a `.zip` file or clone the repository.
-2. Open Google Chrome and go to `chrome://extensions`.
-3. Enable **Developer mode** (top right corner).
-4. Click **"Load unpacked"** and select the folder where the extension files are.
-5. Click the extension icon and press **"Download CSV"**.
+1. Download or clone this repository.
+2. Open Chrome and go to `chrome://extensions`.
+3. Turn on **Developer mode** (top right corner).
+4. Click **"Load unpacked"** and select this extension folder.
+5. Visit any webpage with tables.
+6. Click the extension icon and hit **"Download CSV"**.
 
 ---
 
 ## 📸 Screenshot
 
 ![Screenshot](table_scraper_preview.png)
+
+---
+
+## ☕ Donate
+
+If you find this tool helpful, you can support me with a small donation 💖
+
+- 💸 EasyPaisa / JazzCash: **0310-1374973**
 
 ---
 
@@ -53,7 +53,7 @@ Made with ❤️ by [Pyali786](https://github.com/Pyali786)
 
 This project is **100% free** to use for personal and commercial purposes.
 
----
+> ⭐ If you like this project, please give it a star and share it with others!
 
 
 
