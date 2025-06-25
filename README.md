@@ -28,8 +28,6 @@ This project is **100% free** to use for personal and commercial purposes.
 🔧 FREE Chrome Extension (Made in Pakistan 🇵🇰)
 Scrape ANY table from ANY website in just 1 click!
 
-✅ Auto-detects tables✅ Download as CSV✅ 100% FREE basic version💰 Full Unlock only Rs. $3 USD
-
-📲 WhatsApp to Unlock: 0310-1374973
+✅ Auto-detects tables✅ Download as CSV✅ 100% FREE basic version
 
 👉 Download here: https://github.com/Pyali786/tutorial-py⭐ Please give a ⭐ star if this helps you 🙏
