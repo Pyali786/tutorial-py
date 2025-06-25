@@ -4,7 +4,6 @@
 ✅ Preview data before downloading  
 ✅ Export as CSV
 
-💰 Unlock Full Version (only $3): WhatsApp 0310-1374973
 
 📥 How to Install:
 1. Download ZIP
