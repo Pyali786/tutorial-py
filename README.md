@@ -16,6 +16,7 @@
 
 
 ⭐ Please give a ⭐ if this helped you
+wow sir
 
 
 Made with ❤️ by [Pyali786](https://github.com/Pyali786)
