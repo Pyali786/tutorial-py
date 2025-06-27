@@ -1,28 +1,20 @@
-# 🧩 My Chrome Extension - Table Scraper
+🌟 Pyali786 ke Table Scraper ke liye Appreciation Post (English + Urdu Style):
+🚀 Shoutout to @Pyali786
+Your Table Scraper tool is absolutely brilliant! 👏
+I’ve tried many scrapers before, but the simplicity and accuracy of your extension is on another level.
 
-✅ Extract any table from any website  
-✅ Preview data before downloading  
-✅ Export as CSV
+It detects tables instantly
 
+Exports data with just one click
 
-📥 How to Install:
-1. Download ZIP
-2. Go to chrome://extensions
-3. Enable Developer Mode
-4. Click "Load unpacked"
-5. Select the extension folder
+Clean, fast, and easy for everyone — even non-coders!
 
-⭐ Please give a Star to support this project
+💡 Truly helpful for students, researchers, data analysts, and web scrapers.
 
+بہت اعلیٰ کام کیا ہے بھائی! آپ کا table scraper بہت ہی زبردست ہے — دل سے داد دیتا ہوں 🙌
 
-⭐ Please give a ⭐ if this helped you
+Keep building amazing tools — we’re supporting you! 💪✨
 
-
-Made with ❤️ by [Pyali786](https://github.com/Pyali786)
-
----
-
-## 📄 License
 
 This project is **100% free** to use for personal and commercial purposes.
 🔧 FREE Chrome Extension (Made in Pakistan 🇵🇰)
