@@ -1,6 +1,6 @@
 # 🧩 My Chrome Extension - Table Scraper
 
-✅ Extract any table from any website  
+✅ Extract any table from any websites
 ✅ Preview data before downloading  
 ✅ Export as CSV
 
